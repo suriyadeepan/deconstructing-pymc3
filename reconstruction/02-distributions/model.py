@@ -82,6 +82,7 @@ class Model(Context, metaclass=InitContextMeta):
       self.observed_RVs.append(var)
     # add to model.named_vars
     self.add_random_variable(var)
+    return var
 
   def add_random_variable(self, var):
     # check if variable already exists in named_vars
