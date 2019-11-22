@@ -1,3 +1,4 @@
 notes/
 pymc3/
 venv/
+__pycache__
