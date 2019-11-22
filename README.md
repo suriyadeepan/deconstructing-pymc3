@@ -26,3 +26,6 @@ python reconstruction/{x}-{y}.py
 - [x] pm.Model
   - [Deconstructing PyMC3 : Part I](http://antithesis.pub/pymc3/deconstruction/2019/11/06/deconstructing-pymc3-part-i.html)
   - [Code](reconstruction/01-model/)
+- [ ] pm.Normal
+  - Deconstructing PyMC3 Part 2 : Random Variables
+  - [Code](reconstruction/02-distributions/)
