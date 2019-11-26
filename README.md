@@ -10,7 +10,7 @@ Debugging setup
 ```bash
 pip install -r requirements-dev.txt
 git clone https://github.com/pymc-devs/pymc3
-cp tests/*.py pymc3/
+cp tests/*.py pymc3/ && cd pymc3/
 ipdb {test_x}.py  # run debugger
 ```
 
