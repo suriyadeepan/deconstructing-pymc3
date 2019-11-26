@@ -1,7 +1,7 @@
 # Deconstructing PyMC3
 
 This is my attempt to understand the internals of PyMC3
-by deconstructing one module at a time and reconstructing them iteratively.
+by deconstructing one module at a time and reconstructing them incrementally.
 
 ## Setup
 
